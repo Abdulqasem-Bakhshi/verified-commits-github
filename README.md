@@ -18,9 +18,9 @@ This is a step by step process on setting up verified commits for every commit i
 6. Write **"0"** if you want the key to never expire.
 7. In **"Real Name:"** provide your real name on GitHub.
 8. In **"Email address:"** provide your email address your GitHub account is set. For security, you can use your GitHub noreply email. (See **# How To Get Noreply Email From GitHub?**)
-9. In **"Comment"** you can skip by pressing enter.
+9. In **"Comment:"** you can skip by pressing enter.
 10. In **"Change (N)ame, (C)omment, (E)mail, or (O)kay,/(Q)uit?"** press **"O"** to preceed further.
-11. Write your passphrase. (DO NOT SHARE THIS WITH ANYONE).
+11. Write your passphrase. (**DO NOT SHARE THIS WITH ANYONE**).
 12. Now that the key is made, we need to configure the GPG Key into the local machine. (See **# Steps To Configure The GPG Key Into The Local Machine.**)
 
 
