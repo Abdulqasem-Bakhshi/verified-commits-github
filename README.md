@@ -16,8 +16,8 @@ This is a step by step process on setting up verified commits for every commit i
 4. Write **"1"** to choose **"(1) RSA and RSA"** type of key.
 5. Write **"4096"** for the RSA key size.
 6. Write **"0"** if you want the key to never expire.
-7. In **"Real Name:"** provide your real name on GitHub.
-8. In **"Email address:"** provide your email address your GitHub account is set. For security, you can use your GitHub noreply email. (See **# How To Get Noreply Email From GitHub?**)
+7. In **"Real Name:"** provide your real name you set on GitHub.
+8. In **"Email address:"** provide your email address your GitHub account is set. For prvacy, you can use your GitHub noreply email. (See **# How To Get Noreply Email From GitHub?**)
 9. In **"Comment:"** you can skip by pressing enter.
 10. In **"Change (N)ame, (C)omment, (E)mail, or (O)kay,/(Q)uit?"** press **"O"** to preceed further.
 11. Write your passphrase. (**DO NOT SHARE THIS WITH ANYONE**).
