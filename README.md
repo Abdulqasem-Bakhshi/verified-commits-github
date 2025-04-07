@@ -37,7 +37,7 @@ This is a step by step process on setting up verified commits for every commit i
 10. Now we need to specify the GPG installation file for terminal. (See **"# How To Find The GPG Installation File."**)
 11. Copy the path and write **"git config --global gpg.program "path/gpg.exe""** E.g., **"git config --global gpg.program "C:\Program Files\GnuPG/bin/gpg.exe""**
 12. Write **"git config --global --list"** to see what we've made so far.
-13. Proceed to step 3 of **# Steps To Follow In A Nutshell**
+13. Proceed to step 3 of **"# Steps To Follow In A Nutshell."**
 
 
 # Steps To Configure The GPG Key On GitHub.
