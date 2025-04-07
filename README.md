@@ -48,7 +48,7 @@ This is a step by step process on setting up verified commits for every commit i
 
 
 # How To Get Noreply Email From GitHub?
-1. Login to GitHub **->** Profile -> Settings **->** Emails (Tab) **->** Copy the nonvisible email that goes as follows, xxxxxx+username@users.noreply.github.com
+1. Login to GitHub **->** Profile -> Settings **->** Emails (Tab) **->** In **"Not visible in emails"** Copy the email that goes as follows, xxxxxx+username@users.noreply.github.com
 
 
 # How To Find The GPG Installation File?
