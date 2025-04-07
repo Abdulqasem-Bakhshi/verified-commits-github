@@ -11,7 +11,7 @@ This is a step by step process on setting up verified commits for every commit i
 
 # Steps To Create GPG Key.
 1. Download and install gpg. (https://www.gpg4win.org/)
-2. Open Vscode Terminal (Preferably Powershell run as Administrator)
+2. Open Vscode Terminal (Preferably Powershell as an administrator)
 3. Write **"gpg --full-generate-key"** for generating gpg key.
 4. Write **"1"** to choose **"(1) RSA and RSA"** type of key.
 5. Write **"4096"** for the RSA key size.
@@ -52,5 +52,5 @@ This is a step by step process on setting up verified commits for every commit i
 
 
 # How To Find The GPG Installation File?
-1. Open Command Prompt (Preferrably run as administrator)
+1. Open Command Prompt (Preferably as an administrator)
 2. Write **"where gpg"**
