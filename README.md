@@ -43,7 +43,7 @@ This is a step by step process on setting up verified commits for every commit i
 1. GitHub -> Profile -> Settings -> SSH and GPG Keys
 2. In GPG Keys click **"New GPG key"**
 3. For title, you can use your noreply GitHub email or anything you want.
-4. For Key, just paste the RGP PUBLIC KEY block and then click **"Add GPG Key"**
+4. For Key, just paste the PGP PUBLIC KEY block and then click **"Add GPG Key"**
 
 
 # How To Get Noreply Email From GitHub?
