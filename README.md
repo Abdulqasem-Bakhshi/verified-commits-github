@@ -29,7 +29,7 @@ This is a step by step process on setting up verified commits for every commit i
 2. In line **"sec"** copy the string after **"rsa4096/"**. E.g., rsa4096/xxxxxxxx **(copy the x values only)**
 3. Write **"gpg --armor --export"** and then your rsa4096 key. E.g., **"gpg --armor --export xxxxxxxx"**
 4. Copy the generated block from **"-----BEGIN PGP PUBLIC KEY BLOCK-----"** till **"-----END PGP PUBLIC KEY BLOCK-----"**
-5. Add it to your GitHub GPG Key. (# See Steps for configuring the GPG Key in GitHub)
+5. Add it to your GitHub GPG Key. (See **# Steps To Configure The GPG Key In GitHub**)
 6. To configure the terminal, write **"git config --global user.name "User Name"".** E.g., **"git config --global user.name "Mike Tyson""**
 7. Write "git config --global user.signingkey" and write your **"Key ID"** (you can take it from your GPG Keys from GitHub). E.g., **"git config --global user.signingkey xxxxxxxx"**
 8. Write **"git config --global commit.gpgsign true"**
