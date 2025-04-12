@@ -31,7 +31,7 @@ This is a step by step process on setting up verified commits for every commit i
 4. Copy the generated block from **"-----BEGIN PGP PUBLIC KEY BLOCK-----"** till **"-----END PGP PUBLIC KEY BLOCK-----"**
 5. Add it to your GitHub GPG Key. (See **# Steps To Configure The GPG Key In GitHub**)
 6. To configure the terminal, write **"git config --global user.name "User Name"".** E.g., **"git config --global user.name "Mike Tyson""**
-7. Write "git config --global user.signingkey" and write your **"Key ID"** (you can take it from your GPG Keys in the SSH and GPG Keys (Tab)). E.g., **"git config --global user.signingkey xxxxxxxx"**
+7. Write **"git config --global user.signingkey"** and write your **"Key ID"** (you can take it from your GPG Keys in the SSH and GPG Keys (Tab)). E.g., **"git config --global user.signingkey xxxxxxxx"**
 8. Write **"git config --global commit.gpgsign true"**
 9. Write **"git config --global tag.gpgsign true"**
 10. Now we need to specify the GPG installation file for terminal. (See **"# How To Find The GPG Installation File."**)
